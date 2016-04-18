@@ -1,0 +1,23 @@
+{
+  "name": "simple_blog",
+  "version": "0.0.1",
+  "description": "A simple tool to generate a static blog ",
+  "bin": {
+    "simple_blog": "bin/simple_blog.js"
+  },
+  "main": "index.js",
+  "keywords": [
+    "blog",
+    "vue.js",
+    "static blog"
+  ],
+  "author": "aidewoode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidewoode/simple_blog.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
